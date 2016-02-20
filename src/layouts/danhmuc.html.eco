@@ -20,7 +20,7 @@ layout: containersidebar
             <% if gia1.id == @getProductIdName() : %>
           <li class="item-product col-xs-12 col-sm-6 col-md-3">
             <div class="products-inner">
-              <a class="tabproduct-img product_image" href="<%= product.url %>.html#<%= @getProductIdName() %>" title="<%= product.title %>">
+              <a class="tabproduct-img product_image" href="<%= product.url %>#<%= @getProductIdName() %>" title="<%= product.title %>">
                 <img class="replace-2x img-responsive" src="<%= product.images[0].thickbox %>" alt="" />
               </a>
 
@@ -28,7 +28,7 @@ layout: containersidebar
             <div class="product-contents">
 
               <h5 class="product-name">
-                <a class="product-name" href="<%= product.url %>.html#<%= @getProductIdName() %>" title="<%= product.title %>">
+                <a class="product-name" href="<%= product.url %>#<%= @getProductIdName() %>" title="<%= product.title %>">
                   <%= product.title %>
                 </a>
               </h5>
@@ -49,7 +49,7 @@ layout: containersidebar
 
               </div>
 
-              <a class="new-box" href="<%= product.url %>.html#<%= @getProductIdName() %>">
+              <a class="new-box" href="<%= product.url %>#<%= @getProductIdName() %>">
                 <span class="new-label">Mới</span>
               </a>
 

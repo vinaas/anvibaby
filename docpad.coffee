@@ -38,7 +38,7 @@ docpadConfig = {
   environments:  # default
 			development:  # default
 				hostname:  'localhost'
-				port: 8080  # example
+				port: 3000  # example
 				# hostname: '127.0.0.1'
 				#
 				# port: 9005  # example

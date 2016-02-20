@@ -175,14 +175,14 @@ slides:
 
                         <div class="item-product">
                           <div class="products-inner">
-                            <a class="tabproduct-img product_image" href="<%= product.url %>.html#<%= @getProductIdName() %>" title="<%= product.title %>">
+                            <a class="tabproduct-img product_image" href="<%= product.url %>#<%= @getProductIdName() %>" title="<%= product.title %>">
                               <img class="replace-2x img-responsive" src="<%= product.images[0].thickbox %>" alt="" />
                             </a>
                           </div>
                           <div class="product-contents">
 
                             <h5 class="product-name">
-                              <a class="product-name" href="<%= product.url %>.html#<%= @getProductIdName() %>" title="<%= product.title %>">
+                              <a class="product-name" href="<%= product.url %>#<%= @getProductIdName() %>" title="<%= product.title %>">
                                 <%= product.title %>
                               </a>
                             </h5>
@@ -204,7 +204,7 @@ slides:
                               <% end %>
                             </div>
 
-                            <a class="new-box" href="<%= product.url %>.html">
+                            <a class="new-box" href="<%= product.url %>">
                               <span class="new-label">Mới</span>
                             </a>
                           </div>
@@ -239,14 +239,14 @@ slides:
                     <% end %>
                         <div class="item-product">
                           <div class="products-inner">
-                            <a class="tabproduct-img product_image" href="<%= product1.url %>.html#<%= @getProductIdName() %>" title="<%= product1.title %>">
+                            <a class="tabproduct-img product_image" href="<%= product1.url %>#<%= @getProductIdName() %>" title="<%= product1.title %>">
                               <img class="replace-2x img-responsive" src="<%= product1.images[0].thickbox %>" alt="" />
                             </a>
 
                           </div>
                           <div class="product-contents">
                             <h5 class="product-name">
-                              <a class="product-name" href="<%= product1.url %>.html#<%= @getProductIdName() %>" title="<%= product1.title %>">
+                              <a class="product-name" href="<%= product1.url %>#<%= @getProductIdName() %>" title="<%= product1.title %>">
                                 <%= product1.title %>
                               </a>
                             </h5>
@@ -267,7 +267,7 @@ slides:
                               <% end %>
                             </div>
 
-                            <a class="sale-box" href="<%= product1.url %>.html#<%= @getProductIdName() %>">
+                            <a class="sale-box" href="<%= product1.url %>#<%= @getProductIdName() %>">
                                 <span class="sale-label">Sale!</span>
                             </a>
                           </div>
@@ -365,14 +365,14 @@ slides:
 
                   <div class="sds_blog_post">
                     <div class="news_module_image_holder">
-                      <a href="<%= tintuc.url %>.html">
+                      <a href="<%= tintuc.url %>">
                         <img alt="<%= tintuc.title %>" class="feat_img_small" src="<%= tintuc.thumbnail %>">
                       </a>
                     </div>
                     <div class="blog_content">
-                      <h2 class="sds_post_title"><a href="<%= tintuc.url %>.html"><%= tintuc.title %></a></h2>
+                      <h2 class="sds_post_title"><a href="<%= tintuc.url %>"><%= tintuc.title %></a></h2>
                       <span class="date-smart">Ngày <%= @time(tintuc.ngaydang, 'DD') %>/<%= @time(tintuc.ngaydang, 'MM') %>/<%= @time(tintuc.ngaydang, 'YYYY') %></span>
-                      <a href="<%= tintuc.url %>.html" class="r_more">Xem thêm</a>
+                      <a href="<%= tintuc.url %>" class="r_more">Xem thêm</a>
                       <p>
                         <%= tintuc.sDescription %>
                       </p>
@@ -440,14 +440,14 @@ slides:
 
                   <div class="sds_blog_post">
                     <div class="news_module_image_holder">
-                      <a href="<%= tintuc2.url %>.html">
+                      <a href="<%= tintuc2.url %>">
                         <img alt="<%= tintuc2.title %>" class="feat_img_small" src="<%= tintuc2.thumbnail %>">
                       </a>
                     </div>
                     <div class="blog_content">
-                      <h2 class="sds_post_title"><a href="<%= tintuc2.url %>.html"><%= tintuc2.title %></a></h2>
+                      <h2 class="sds_post_title"><a href="<%= tintuc2.url %>"><%= tintuc2.title %></a></h2>
                       <span class="date-smart">Ngày <%= @time(tintuc.ngaydang, 'DD') %>/<%= @time(tintuc.ngaydang, 'MM') %>/<%= @time(tintuc.ngaydang, 'YYYY') %></span>
-                      <a href="<%= tintuc2.url %>.html" class="r_more">Xem thêm</a>
+                      <a href="<%= tintuc2.url %>" class="r_more">Xem thêm</a>
                       <p>
                         <%= tintuc2.sDescription %>
                       </p>
