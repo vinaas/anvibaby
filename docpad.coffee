@@ -11,7 +11,7 @@ docpadConfig = {
 		# Site Data
 		site:
 			url: "http://anvibaby.com"
-			title: "Tã Vải Hiện Đại AnViBaby"
+			title: "Tã Vải Hiện Đại AnViBaby Quoc bao"
 			author: "Anvibaby"
 			description: 'Tã Vải Hiện Đại AnViBaby'
 			email: "anvibaby@gmail.com"
