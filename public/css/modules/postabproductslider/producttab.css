@@ -1,4 +1,4 @@
-.product-tabs-container-slider { 'Itim', cursive
+.product-tabs-container-slider { 'Roboto Slab', cursive
 	display:inline-block;
 	width:100%;
 	background:#fff;
@@ -24,7 +24,7 @@
 	}
 	ul.tabs li {
 		float: left;
-		font-family: 'Itim', cursive;;
+		font-family: 'Roboto Slab', cursive;;
 		font-size:16px;
 		color:#fff;
 		font-weight:400;

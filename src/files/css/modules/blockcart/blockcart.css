@@ -63,7 +63,7 @@
 	color: #0a97d4;
     text-transform: capitalize;
     font-size: 16px;
-    font-family:  'Itim', cursive;
+    font-family:  'Roboto Slab', cursive;
     font-weight: 400;
 	 margin-top: 5px;
     display: inline-block;
@@ -80,7 +80,7 @@
 		color: #0a97d4;
 		text-transform: capitalize;
 		font-size: 16px;
-		font-family:  'Itim', cursive;
+		font-family:  'Roboto Slab', cursive;
 		font-weight: 400;
 		display: block;
 		clear: both;
@@ -238,7 +238,7 @@
     #header .cart_block .cart_block_list .ajax_cart_block_remove_link:hover {
       color: #9c9b9b; }
   #header .cart_block .price {
-    font-family:  'Itim', cursive;
+    font-family:  'Roboto Slab', cursive;
     color: #0a97d4; }
   #header .cart_block dt {
  }

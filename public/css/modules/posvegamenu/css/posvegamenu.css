@@ -141,7 +141,7 @@ margin-right: 10px;}
 .pt_vmegamenu div.pt_menu .parentMenu a{
 	text-decoration: none;
     display: block;
-    font-family:  'Itim', cursive;
+    font-family:  'Roboto Slab', cursive;
     font-weight: 400;
     font-size: 16px;
 	line-height:32px;
@@ -152,6 +152,7 @@ margin-right: 10px;}
 .pt_vmegamenu div.pt_menu .parentMenu a span{
 	display: inline-block;
 	line-height: 25px;
+	font-weight: bold;
 }
 .pt_vmegamenu div.pt_menu .parentMenu{
     font-size: 12px;
@@ -234,7 +235,7 @@ display:none !important;
 }
 .pt_vmegamenu .itemMenu h4.level3,
 .pt_vmegamenu .itemMenu a.level3,.pt_vmegamenu .itemMenu a.level4.nochild{
-	font-family:  'Itim', cursive;
+	font-family:  'Roboto Slab', cursive;
     font-weight: 400;
     text-transform: capitalize;
     padding-bottom: 10px;
@@ -350,7 +351,7 @@ transition: all 0.3s ease-out;
 }
 .view_more {
 	color: #5e686d;
-    font-family:  'Itim', cursive;
+    font-family:  'Roboto Slab', cursive;
     font-weight: 400;
     font-size: 14px;
     font-style: inherit;

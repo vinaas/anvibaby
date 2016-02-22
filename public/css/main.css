@@ -342,3 +342,10 @@ text-transform: capitalize;
 }
 .banner-box:hover .banner-content {
 }
+
+
+.text-run{
+  margin-bottom: 5px;
+  font-size: 15px;
+color: black;
+}

@@ -385,9 +385,18 @@
 
           </div>
         </div>
+
+
+
       </header>
 
     </div>
+    <div class="container text-run">
+<marquee width="100%">“LÌ XÌ ĐẦU NĂM CHO CÁC KHÁCH SỈ VÀ NHÀ PHÂN PHỐI
+Mọi đơn hàng lẻ >=2 bộ trong tháng 02/2016 đều được free ship mọi miền tổ quốc.”
+</marquee>
+</div>
+
     <div class="columns-container">
 
       <%- @content %>

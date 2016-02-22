@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800);
-@import url(https://fonts.googleapis.com/css?family=Itim&subset=latin,vietnamese,latin-ext);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300&subset=latin,vietnamese,cyrillic-ext);
 
 @charset "UTF-8";
 html, body, div, span, applet, object, iframe,
@@ -5731,7 +5730,7 @@ textarea {
 	line-height:0;
   z-index: 5003; }
 #index  #header {
-	margin-bottom:15px;
+	margin-bottom:5px;
  }
 .columns-container {
   background: transparent; }
@@ -6448,7 +6447,7 @@ ul.footer_links {
     padding: 3px 0 0 12px;
     display: inline-block;
     float: left;
-    font-family:  'Itim', cursive;
+    font-family:  'Roboto Slab', cursive;
     font-size: 16px;
     line-height: 20px; }
     .content_sortPagiBar .sortPagiBar .nbrItemPage #uniform-nb_item {
@@ -6460,7 +6459,7 @@ ul.footer_links {
      padding: 3px 6px 0 0;
     color: #fff;
     font-weight: 400;
-    font-family:  'Itim', cursive;
+    font-family:  'Roboto Slab', cursive;
     font-size: 16px;
     line-height: 20px; }
   .content_sortPagiBar .sortPagiBar.instant_search #productsSortForm {
@@ -7331,7 +7330,7 @@ table#cart_summary .gift-icon {
 .addresses .addresses .address_select {
   clear: both;
   float: left; }
-.addresses .waitimage {
+.addresses .waRoboto Slabage {
   display: none;
   float: left;
   width: 24px;
@@ -8618,7 +8617,7 @@ header .header-middle{
 /************** title ***************/
 .pos-accessories-title,.title-productscategory,.pos-logo-title,.blog-title,.pos-sellers-title,.pos-new-product-title,.special_products_title,.pos-feature-product-title{
 	position:relative;
-	font-family:  'Itim', cursive;
+	font-family:  'Roboto Slab', cursive;
 	margin-bottom:25px;
 }
 .pos-logo-title {
@@ -8632,7 +8631,7 @@ header .header-middle{
 .pos-accessories-title h2 span,.title-productscategory h3 span,.pos-logo-title h2 span,.blog-title h2 a,.pos-sellers-title h4 a,.pos-new-product-title h2 span,.special_products_title h4 a,.pos-feature-product-title h2 span {
 	font-size:16px;
 	color:#fff;
-	font-weight:400;
+	font-weight:700;
 	text-transform:capitalize;
 	line-height:40px;
 	padding:0 25px;
@@ -8830,7 +8829,7 @@ h5.product-name {
 	color:#f95e96;
 }
 .price-box {
-	font-family:  'Itim', cursive;
+	font-family:  'Roboto Slab', cursive;
 	font-weight:400;
 	display:block;
 	line-height:12px;
@@ -9213,7 +9212,7 @@ span.tooltip:before, span.tooltip:after {
 	color:#5e686d;
 }
 .footer-container #footer h4 ,.footer-container #footer h4 a {
-	font-family:  'Itim', cursive;
+	font-family:  'Roboto Slab', cursive;
     color: #0d98d5;
     font-weight: 400;
     text-transform: capitalize;
@@ -9379,7 +9378,7 @@ ul.product_list.list > li .pos_quickView {
     display: inline-block;
     padding: 0 30px;
     border-radius: 15px;
-    font-family:  'Itim', cursive;
+    font-family:  'Roboto Slab', cursive;
 }
 .block .title_block a,
 .block h4 a {
