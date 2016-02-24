@@ -3,8 +3,8 @@
 <url> <loc>http://anvibaby.com/huong-dan-su-dung-ta.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/ta-ban-dem-size-L.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/ta-ban-dem-size-M.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://anvibaby.com/ta-ban-ngay-size-L.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/ta-ban-ngay-size-M.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://anvibaby.com/ta-ban-ngay-size-L.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/content/1-delivery.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/content/2-legal-notice.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/content/4-about-us.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -14,14 +14,13 @@
 <url> <loc>http://anvibaby.com/baiviet/3-bi-quyet-day-be-tap-noi.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/an-toan-cho-be-tiet-kiem-cho-me.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/benh-be-thuong-gap-mua-thu.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://anvibaby.com/baiviet/cach-thuc-mua-hang.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/cac-buoc-su-dung-ta-Anvi.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://anvibaby.com/baiviet/cach-thuc-mua-hang.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/cau-hoi-thuong-gap.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/cau-tao-ta-Anvi.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/cho-tre-an-hoa-qua-dung-cach.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/chua-chung-so-mui-cho-tre.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/lienhe.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://anvibaby.com/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/baiviet/gioi-thieu-ta-vai-anvibaby.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/cam-nang-me-va-be.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/sanpham/ta-vai-cho-va-meo.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -48,4 +47,5 @@
 <url> <loc>http://anvibaby.com/sanpham/ta-vai-xe-xuc.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/sanpham/ta-vai-mo-neo-xanh.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://anvibaby.com/sanpham/ta-vai-ran-ri-bo-doi.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://anvibaby.com/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

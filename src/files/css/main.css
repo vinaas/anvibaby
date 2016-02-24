@@ -114,6 +114,7 @@ TAM THOI AN GIO HANG DI*/
 }
 .baiviet {
   padding: 30px 30px;
+  text-align: justify;
 }
 .baiviet img {
   max-width: 100% !important;
@@ -356,4 +357,21 @@ text-transform: capitalize;
   margin-bottom: 5px;
   font-size: 15px;
 color: black;
+}
+
+.news_module_image_holder{
+  padding-bottom: 56.25% !important;
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.sds_blog_post  .news_module_image_holder img{
+	width:100%;
+	border-radius:0px;
+}
+.cursor-default{
+  cursor: default;
 }

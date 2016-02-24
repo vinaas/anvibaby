@@ -351,7 +351,7 @@ slides:
           <div class="block-smartblog">
             <div class="blog-title">
               <h2>
-                <a href="smartblog.html">
+                <a href="" class="cursor-default">
                   <span>Hướng dẫn sử dụng các loại tả!</span>
                 </a>
               </h2>
@@ -427,7 +427,7 @@ slides:
           <div class="block-smartblog">
             <div class="blog-title">
               <h2>
-                <a href="smartblog.html">
+                <a href="" class="cursor-default">
                   <span>Chuyên mục nuôi con !</span>
                 </a>
               </h2>
