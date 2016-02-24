@@ -355,8 +355,9 @@ text-transform: capitalize;
 
 .text-run{
   margin-bottom: 5px;
-  font-size: 15px;
-color: black;
+  font-size: 16px;
+    color: #FF0045;
+    font-weight: bold;
 }
 
 .news_module_image_holder{

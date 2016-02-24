@@ -6929,7 +6929,7 @@ div.star a:hover {
 .breadcrumb {
 	position: relative;
     z-index: 1;
-    padding: 15px 0;
+        padding: 0 0 15px 0;
     margin-bottom: 20px;
     list-style: none;
     background-color: transparent;
