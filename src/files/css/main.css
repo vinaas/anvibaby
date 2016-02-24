@@ -342,7 +342,15 @@ text-transform: capitalize;
 }
 .banner-box:hover .banner-content {
 }
-
+#form-gopy {
+	position:relative;
+	display:inline-block;
+	width:100%;
+	margin-bottom:30px;
+	padding: 30px;
+	background:#fff;
+	border-radius:20px;
+}
 
 .text-run{
   margin-bottom: 5px;
