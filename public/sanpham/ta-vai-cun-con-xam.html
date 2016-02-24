@@ -782,7 +782,7 @@ Mọi đơn hàng lẻ >=2 bộ trong tháng 02/2016 đều được free ship m
                         <!---->
                       </div>
                       <!-- end short_description_block -->
-                      <div class="box-cart-bottom" style="display:none">
+                      <div class="box-cart-bottom" style="">
 
                         <!-- quantity wanted -->
                         <p id="quantity_wanted_p">
@@ -800,10 +800,12 @@ Mọi đơn hàng lẻ >=2 bộ trong tháng 02/2016 đều được free ship m
                         <!-- minimal quantity wanted -->
                         <div class="cart-product">
                           <p id="add_to_cart" class="buttons_bottom_block no-print">
-                            <button type="submit" name="Submit" class="exclusive">
-                              <span>+ Giỏ hàng</span>
-                            </button>
+                            <a class=" fancybox-fast-view" href="#popup-muahang" rel="nofollow" title="Add to cart">
+  														<span> Mua hàng</span>
+  													</a>
                           </p>
+
+
                         </div>
 
                       </div>
@@ -1067,13 +1069,13 @@ Mọi đơn hàng lẻ >=2 bộ trong tháng 02/2016 đều được free ship m
                     
                         <div class="item-sellers">
                           <div class="sellers-img">
-                            <a href="/sanpham/ta-vai-gau-trang-bac-cuc" title="" class="products-block-image content_img clearfix">
-                              <img class="replace-2x img-responsive" src="../img/sanpham/gautrangbaccuc/img1.jpg" alt="" />
+                            <a href="/sanpham/ta-vai-cun-con-xam" title="" class="products-block-image content_img clearfix">
+                              <img class="replace-2x img-responsive" src="../img/sanpham/cunconxam/img1.jpg" alt="" />
                             </a>
                           </div>
                           <div class="sellers-content">
                             <h5>
-                              <a class="product-name" href="/sanpham/ta-vai-gau-trang-bac-cuc" title=""> Gấu Trắng Bắc Cực </a>
+                              <a class="product-name" href="/sanpham/ta-vai-cun-con-xam" title=""> Cún con Xám </a>
                             </h5>
                             <p class="product-description"></p>
                             <div class="price-box">
@@ -1084,13 +1086,13 @@ Mọi đơn hàng lẻ >=2 bộ trong tháng 02/2016 đều được free ship m
                     
                         <div class="item-sellers">
                           <div class="sellers-img">
-                            <a href="/sanpham/ta-vai-cun-con-xam" title="" class="products-block-image content_img clearfix">
-                              <img class="replace-2x img-responsive" src="../img/sanpham/cunconxam/img1.jpg" alt="" />
+                            <a href="/sanpham/ta-vai-gau-trang-bac-cuc" title="" class="products-block-image content_img clearfix">
+                              <img class="replace-2x img-responsive" src="../img/sanpham/gautrangbaccuc/img1.jpg" alt="" />
                             </a>
                           </div>
                           <div class="sellers-content">
                             <h5>
-                              <a class="product-name" href="/sanpham/ta-vai-cun-con-xam" title=""> Cún con Xám </a>
+                              <a class="product-name" href="/sanpham/ta-vai-gau-trang-bac-cuc" title=""> Gấu Trắng Bắc Cực </a>
                             </h5>
                             <p class="product-description"></p>
                             <div class="price-box">
@@ -1163,6 +1165,137 @@ Mọi đơn hàng lẻ >=2 bộ trong tháng 02/2016 đều được free ship m
         <!-- .row -->
       </div>
       <!-- #columns -->
+
+      <div id="popup-muahang" style="display: none;">
+        <div class="clearfix" style="width: 100%">
+          <div class="layer_cart_product col-xs-12 col-md-6">
+            <h2>
+              <i class="icon-check"></i>Xác nhận đơn hàng
+            </h2>
+            <div class="product-image-container layer_cart_img">
+              <img class="layer_cart_img img-responsive" src="/img/sanpham/cunconxam/img1.jpg" alt=" Cún con Xám" title="Cún con Xám">
+            </div>
+            <div class="layer_cart_product_info">
+              <span id="layer_cart_product_title" class="product-name">Khỉ Con Xanh</span>
+              <span id="layer_cart_product_attributes"></span>
+
+              <div>
+                <strong class="dark">Kích cỡ: </strong>
+                <span id="layer_cart_product_quantity">Size M ban đêm
+
+              </span>
+              </div>
+
+              <div>
+                <strong class="dark">Số lượng: </strong>
+                <span id="layer_cart_product_quantity">1
+
+              </span>
+              </div>
+              <div>
+                <strong class="dark">Đơn giá: </strong>
+                <span id="layer_cart_product_price">49.000</span>
+              </div>
+              <div>
+                <strong class="dark">Tổng cộng: </strong>
+                <span id="layer_cart_product_price">49.000</span>
+              </div>
+            </div>
+          </div>
+          <div class="layer_cart_cart col-xs-12 col-md-6">
+            <h2>
+              <span class="ajax_cart_product_txt ">
+                Thông tin liên hệ
+              </span>
+            </h2>
+
+            <div class="form_content clearfix">
+
+              <div class="form-group">
+    						<label for="email">Họ tên: </label>
+    						<input class="is_required validate account_input form-control" data-validate="" type="text" style="cursor: auto; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAALZJREFUOBFjYKAANDQ0rGWiQD9IqzgL0BQ3IKMXiB8AcSKQ/waIrYDsKUD8Fir2pKmpSf/fv3+zgPxfzMzMSbW1tbeBbAaQC+b+//9fB4h9gOwikCAQTAPyDYHYBciuBQkANfcB+WZAbPP37992kBgIUOoFBiZGRsYkIL4ExJvZ2NhAXmFgYmLKBPLPAfFuFhaWJpAYEBQC+SeA+BDQC5UQIQpJYFgdodQLLyh0w6j20RCgUggAAEREPpKMfaEsAAAAAElFTkSuQmCC&quot;); background-attachment: scroll; background-position: 98% 50%; background-repeat: no-repeat;">
+    					</div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="form-group">
+        						<label for="email">Email: </label>
+        						<input class="is_required validate account_input form-control" data-validate="" type="email" style="cursor: auto; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAALZJREFUOBFjYKAANDQ0rGWiQD9IqzgL0BQ3IKMXiB8AcSKQ/waIrYDsKUD8Fir2pKmpSf/fv3+zgPxfzMzMSbW1tbeBbAaQC+b+//9fB4h9gOwikCAQTAPyDYHYBciuBQkANfcB+WZAbPP37992kBgIUOoFBiZGRsYkIL4ExJvZ2NhAXmFgYmLKBPLPAfFuFhaWJpAYEBQC+SeA+BDQC5UQIQpJYFgdodQLLyh0w6j20RCgUggAAEREPpKMfaEsAAAAAElFTkSuQmCC&quot;); background-attachment: scroll; background-position: 98% 50%; background-repeat: no-repeat;">
+        					</div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="form-group">
+        						<label for="email">Số điện thoại: </label>
+        						<input class="is_required validate account_input form-control" data-validate="" type="text" style="cursor: auto; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAALZJREFUOBFjYKAANDQ0rGWiQD9IqzgL0BQ3IKMXiB8AcSKQ/waIrYDsKUD8Fir2pKmpSf/fv3+zgPxfzMzMSbW1tbeBbAaQC+b+//9fB4h9gOwikCAQTAPyDYHYBciuBQkANfcB+WZAbPP37992kBgIUOoFBiZGRsYkIL4ExJvZ2NhAXmFgYmLKBPLPAfFuFhaWJpAYEBQC+SeA+BDQC5UQIQpJYFgdodQLLyh0w6j20RCgUggAAEREPpKMfaEsAAAAAElFTkSuQmCC&quot;); background-attachment: scroll; background-position: 98% 50%; background-repeat: no-repeat;">
+        					</div>
+                </div>
+              </div>
+              <div class="form-group">
+    						<label for="email">Địa chỉ: </label>
+    						<input class="is_required validate account_input form-control" data-validate="" type="text" style="cursor: auto; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAALZJREFUOBFjYKAANDQ0rGWiQD9IqzgL0BQ3IKMXiB8AcSKQ/waIrYDsKUD8Fir2pKmpSf/fv3+zgPxfzMzMSbW1tbeBbAaQC+b+//9fB4h9gOwikCAQTAPyDYHYBciuBQkANfcB+WZAbPP37992kBgIUOoFBiZGRsYkIL4ExJvZ2NhAXmFgYmLKBPLPAfFuFhaWJpAYEBQC+SeA+BDQC5UQIQpJYFgdodQLLyh0w6j20RCgUggAAEREPpKMfaEsAAAAAElFTkSuQmCC&quot;); background-attachment: scroll; background-position: 98% 50%; background-repeat: no-repeat;">
+    					</div>
+
+              <!-- <div class="form-group">
+    						<label for="email">Thông tin thêm về đơn hàng (nếu có): </label>
+
+                <textarea name="name" rows="3" cols="40" class="is_required validate account_input form-control"></textarea>
+    					</div> -->
+
+  					<p class="submit">
+  						<input type="hidden" class="hidden" name="back" value="">
+              	<button type="submit" id="" name="" class="button btn btn-default button-medium">
+  							<span>
+  								<i class="fa fa-shopping-cart"></i>
+  								Đặt mua
+  							</span>
+  						</button>
+  					</p>
+  				</div>
+
+
+
+          </div>
+        </div>
+        <div class="crossseling"></div>
+      </div> <!-- #layer_cart -->
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $(".fancybox-fast-view").fancybox({
+    padding:  '0',
+    width: 960,
+    autoSize: false,
+    autoHeight: true,
+    title: '',
+    tpl: {
+      error: '<p class="fancybox-error">Nội dung không hiển thị<br/>Vui lòng xem lại.</p>',
+      closeBtn: '<a title="Đóng cửa sổ" class="pop-up-close" href="javascript:;"><i class="fa fa-times"></i></a>'
+    }
+  });
+});
+
+</script>
+<style media="screen">
+
+.pop-up-close{
+  position: absolute;
+    text-align: center;
+    top: 5px;
+    right: 5px;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    z-index: 55;
+    color: #96989b;
+    background-color: rgba(255,255,255,.8);
+    line-height: 44px;
+}
+.pop-up-close i {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+</style>
 
     </div>
     <!-- .columns-container -->
@@ -1587,6 +1720,6 @@ Mọi đơn hàng lẻ >=2 bộ trong tháng 02/2016 đều được free ship m
         });
       });
     </script>
-</body>
 
+</body>
 </html>

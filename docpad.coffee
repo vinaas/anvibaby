@@ -6,7 +6,7 @@ moment = require('moment')
 
 docpadConfig = {
 	outPath: 'public'  # default
-	
+
 	templateData:
 		# Site Data
 		site:
@@ -29,7 +29,7 @@ docpadConfig = {
 			moment(ts).format(format)
 	collections:
       products: ->
-          @getCollection("html").findAllLive({isProduct:true}, {date: -1})
+          @getCollection("html").findAllLive({isProduct:true}, {ngaydang: -1})
 
 			bestsellerProducts: ->
 			    @getCollection("html").findAllLive({bestseller:true}, {ngaydang: -1})

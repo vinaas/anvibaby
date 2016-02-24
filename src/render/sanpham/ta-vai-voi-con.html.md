@@ -9,6 +9,8 @@ old_price: "139.000"
 sDescription: "Thiết kế đơn giản dễ dàng sử dụng"
 stock_number: 80
 activeName: "sanpham"
+ngaydang: "2015-03-25"
+
 sizes:
   -
     id: "Size-M-Day"

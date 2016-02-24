@@ -9797,6 +9797,12 @@ transition: all 300ms linear;
 .txt-black{
   color: black;
 }
-
+#popup-muahang .product-name{
+  padding-bottom: 12px;
+font-size: 24px;
+font-weight: 700;
+display: block;
+color: #0a97d4;
+}
 /******************** fixed mobile ***************/
 /* ================= css theme ====================*/
