@@ -51,5 +51,5 @@ Nếu bé đang bú mẹ và ị phân nước thì các vết vàng vàng xuấ
 
 Bản thân nước tiểu rất "sạch" về mặt vi sinh vật. Nước tiểu chủ yếu là nước - khoảng 95% - và một số loại muối, hợp chất vô cơ và hữu cơ. Nước tiểu của người mang một số bệnh có thể chứa thêm 1 số thành phần khác, ví dụ như đường trong trường hợp bệnh tiểu đường. Khi nước tiểu có chứa vi khuẩn thì đó là dấu hiệu của viêm nhiễm, thường thấy nhất là viêm đường tiểu. Nhưng đối với nước tiểu của em bé thì thuộc hàng “rất sạch” nên các mẹ yên tâm không cần phải giặt bằng nước sôi đâu nhé! Nếu các mẹ giặt bằng nước sôi nhiều quá thì sẽ làm hư vải mà lại không cần thiết. Tã đã sài có chứa nước tiểu chỉ cần sả sơ và giặt bình thường như các loại quần áo khác.
 
-Tôi mới mua tã và thấy nó không thấm hút tốt như lời quảng cáo.
+
 ![](cau-hoi-thuong-gap-3.jpg)
