@@ -4,11 +4,6 @@
   1. Cài đặt Git (khuyến khích sử dụng [Gitextension](https://github.com/gitextensions/gitextensions/releases/tag/v2.48.05) or  [SourceTree](https://www.sourcetreeapp.com/), [GitHub](https://desktop.github.com/))
 
   * [Cài đặt Nodejs](https://nodejs.org/en/)
-  * Chạy các lệnh sau
-  ```
-  npm install -g npm
-  npm install -g docpad@6.78
-  ```
 
 ### II. Phát triển một website
 
