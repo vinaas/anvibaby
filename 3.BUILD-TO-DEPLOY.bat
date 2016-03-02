@@ -1,1 +1,1 @@
-docpad generate
+git push origin
